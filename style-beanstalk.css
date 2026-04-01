@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+
+h1{
+    font-family: "Geist", sans-serif;
+    font-size: 48px;
+}
+
+h2{
+font-family: "Geist", sans-serif;
+}
+
+.center-txt{
+    text-align: center;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: blueviolet;
+    border-radius: 15px;
+    color: rgb(0, 255, 251);
+    padding: 9px 18px;
+    display: inline-block;
+}
+
