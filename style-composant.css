@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    display: inline-block;
+}
+.btn{
+    font-family: "Inter", sans-serif;
+    display: inline-block;
+    padding: 16px 32px;
+    text-decoration: none;
+}
+
+.bold{
+    font-weight:700;
+
+}
+
+.black{
+    color: black;
+}
+
+.white{
+
+    color: white;
+}
+.fond-vert{ 
+    background-color: #61ff7b;
+}
+
+.fond-bleu{
+
+    background-color: #1398a0;
+}
+
+.gellule{
+    border-radius: 400px;
+}
+
+.radius-8{
+    border-radius: 8px; 
+
+}
+.radius-0-32{
+
+    border-radius:0px 32px 0px 32px;
+}
+
+.border-solid{
+    border: solid black 1px;
+}
+
+.border-dashed-black{
+
+    border: dashed 2px black;
+}
+
+.card{
+  width: 30%;
+  padding: 8px;
+  background-color:orange;
+  border-radius: 16px;
+  font-family:"Inter", sans-serif;
+  box-shadow: 2px 2px 15px rgb(201, 201,201);
+
+}
+
+.mgt20{
+    margin-top: 20px;
+}
+
+.center-texte{
+    text-align: center;
+}
+
+.w-100{
+    width: 100%;
+
+}
+.border-8{
+    border-radius: 8px;
+}
+
+.mt-16{
+    margin-top: 16px;
+}
+
+.btm-16{
+    margin-bottom: 16px;
+}
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+.gap-8{
+    gap: 8px;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-around{
+    justify-content: space-around;
+}
