@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* garder la main sur la taille d'un élément */
+}
+
+/*CSS EXERCICE 1 */
+
+.marron{
+    color: brown;
+}
+
+.orange{
+    color: orange;
+}
+
+.bg-jaune{
+    background-color: yellow;
+}
+
+.p30{
+    padding: 30px;
+}
+
+.texte-center{
+    text-align: center;
+}
+
+/*CSS EXERCICE 2 */
+
+.btn{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+    display: inline-block; /* change son comportement pour qu'il devienne un inline block*/
+    border-radius: 10px;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.mgb20{
+    margin-bottom: 20px;
+}
+
+/* CSS EXERCICE 3 */
+
+.card{
+    background-color: rgb(142, 177, 244);
+    padding: 30px;
+    width: 20%;
+    border-radius: 30px;
+
+}
+
+
+
+
+.btn-blue{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.bg-blue{
+    background-color: cornflowerblue
+}
+
+.color-titre{
+    color:  rgb(229, 221, 157) ;
+}
+
+/*CSS EXERCICE 4 */
+
+.boites-enfant {
+  width:30%;
+  height:100px;
+  background:lightblue;
+}
+
+.boite-parente {
+display : flex; 
+justify-content:space-between;
+}
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.bg-gris{
+    background-color: gray;
+}
+
+.radius10{
+    border-radius: 10px;
+}
+
+.width28{
+    width: 28%;
+}
+
+/* EXO 3 FLEX BOX */
+
+.width23{
+    width: 23%;
+}
+.gap20{
+    gap: 20px;
+}
+
+.container1000{
+    max-width: 1000px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+}
+
+/* EXO FINAL FLEX BOX */
+
