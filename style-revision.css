@@ -31,7 +31,7 @@
 .btn{
     text-decoration: none;
     padding: 10px 20px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 600;
     display: inline-block; /* change son comportement pour qu'il devienne un inline block*/
     border-radius: 10px;
