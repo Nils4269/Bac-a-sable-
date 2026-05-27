@@ -77,22 +77,6 @@ footer{
 .gap-230{
     gap: 230px;
 }
- 
- 
-/* COLOR */
- 
-.white {
-    color: white;
-}
- 
- 
-/* BACKGROUND */
- 
-.bg-blue {
-    background-color: #19209C;
-}
- 
- 
 /* TAILLE */
  
 .w-20{
@@ -218,6 +202,23 @@ footer{
 }
  
  
+/* COLOR */
+ 
+.white {
+    color: white;
+}
+ 
+ 
+/* BACKGROUND */
+ 
+.bg-blue {
+    background-color: #19209C;
+}
+ 
+ 
+
+ 
+ 
 /* POLICES */
  
 .montserrat {
@@ -230,44 +231,7 @@ footer{
  
 /* TEXTE */
  
-.font-75{
-    font-size: 75px;
-    font-weight: 500;
-}
- 
-.font-50{
-    font-size: 50px;
-    font-weight: 500;
-}
- 
-.font-32{
-    font-size: 32px;
-    font-weight: 400;
-}
- 
-.font-24{
-    font-size: 24px;
-    font-weight: 300;
-}
- 
-.font-14{
-    font-size: 14px;
-    font-weight: 400;
-}
- 
-.font-14-light{
-    font-size: 14px;
-    font-weight: 200;
-}
- 
-.font-10{
-    font-size: 10px;
-}
- 
-.text-center{
-    text-align: center;
-}
- 
+
  
 /* CARTES */
  
@@ -317,3 +281,41 @@ footer{
 .br-30{
     border-radius: 30px;
 }
+.font-75{
+    font-size: 75px;
+    font-weight: 500;
+}
+ 
+.font-50{
+    font-size: 50px;
+    font-weight: 500;
+}
+ 
+.font-32{
+    font-size: 32px;
+    font-weight: 400;
+}
+ 
+.font-24{
+    font-size: 24px;
+    font-weight: 300;
+}
+ 
+.font-14{
+    font-size: 14px;
+    font-weight: 400;
+}
+ 
+.font-14-light{
+    font-size: 14px;
+    font-weight: 200;
+}
+ 
+.font-10{
+    font-size: 10px;
+}
+ 
+.text-center{
+    text-align: center;
+}
+ 
